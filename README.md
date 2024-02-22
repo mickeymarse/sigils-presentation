@@ -28,9 +28,7 @@ I'm planning to come back to this presentation to add more as my experience grow
 
 ## Roadmap
 
-```
 - Create a CSS file to customise the style and make it dark mode;
 - Improve the flow of the animations;
 - Implement [p5.js](https://github.com/processing/p5.js) for the "How To" section;
 - Embed audio for a more immersive experience.
-```
